@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:014044_0000_0F92AB6276053558"/>
-            <pb facs="tcp:014044_0001_0F92AB6343AD8740" rendition="simple:additions"/>
+            <pb facs="unknown:014044_0000_0F92AB6276053558"/>
+            <pb facs="unknown:014044_0001_0F92AB6343AD8740"
+                rendition="simple:additions"/>
             <p>A VOYAGE TO BOSTON. A POEM.</p>
             <q>
                <l>In peace there's nothing ſo becomes a man,</l>
@@ -126,16 +127,16 @@
             <p>PHILADELPHIA: SOLD BY WILLIAM WOODHOUSE, IN FRONT-STREET. M.DCC.LXXV.</p>
          </div>
          <div type="argument">
-            <pb facs="tcp:014044_0002_0F92AB63F6A768C8"/>
+            <pb facs="unknown:014044_0002_0F92AB63F6A768C8"/>
             <head>ARGUMENT.</head>
             <p>INTRODUCTORY reflections. A traveller un<g ref="char:EOLhyphen"/>dertakes a voyage to Boſton: arrives in a river of Maſſachuſetts: has there a ſight of the native Genius of North-America, who preſents him with a mantle, and acquaints him with its virtue of rendering the wear<g ref="char:EOLhyphen"/>er inviſible: deſires him to viſit the town in that ſtate, and remark the tranſactions there. Accordingly he arrives at General Gage's manſion, where are ſeveral other miniſterial tools ſitting in council. The ſtriking familiarity of Gage's temper and conduct to that of Hernando Cortez. Some account of Cortez. and his horrid devaſtations in Mexico, &amp;c. The traveller en<g ref="char:EOLhyphen"/>ters their junto, and gives an account of the chief members of it, viz. General Gage. Admiral Greaves, General Burgoyne, Lord Percy<g ref="char:punc">▪</g> General Howe, Capt. Wallace, and a numerous fry of dependents and needy favourites waiting for poſts and eſtates in America, as ſoon as they ſhall have compelled us to reſign our liber<g ref="char:EOLhyphen"/>ties: General Gage's ſurprize at their ſeveral defeats in New-England and queſtions his leaders thereupon. Lord Percy's anſwer: Greave's reply to that noble<g ref="char:EOLhyphen"/>man: Gage's raillery upon Percy for his nimble re<g ref="char:EOLhyphen"/>treat on April 19 1775. Percy's defence of his con<g ref="char:EOLhyphen"/>duct on that day<g ref="char:punc">▪</g> and the reaſon of his activity; and deſires them to forget Lexington for the preſent and
-<pb n="iv" facs="tcp:014044_0003_0F92AB64C0CCAE70"/>
+<pb n="iv" facs="unknown:014044_0003_0F92AB64C0CCAE70"/>
 turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/>neral Howe's ſpeech concerning that action. Bur<g ref="char:EOLhyphen"/>goyne's harrangue, with his invectives againſt Colonel Grant, who "pledged himſelf for the general cowar<g ref="char:EOLhyphen"/>dice of all America:" Gage's brief reply; and commu<g ref="char:EOLhyphen"/>nicates his intention of purloining cattle from the iſlands, and plans that right honourable exploit: but being overcome with ſleep diſmiſſes his counſellors: The cutting down the Liberty Tree in Boſton, and un<g ref="char:EOLhyphen"/>timely end of one of the wretches employed in that ſneaking affair: Diſtreſſes of the impriſoned citizens in Boſton: Diſſection of a Tory: The traveller leaves Boſton, and viſits the Provincial Camp; meets the Genius of America again on the way and reſigns the mantle, whereby he again becomes viſible; arrives at the camp: View of the Rifle-men, Virginians, &amp;c. Speech of an American Soldier; his determined reſo<g ref="char:EOLhyphen"/>lution, which is that of all America, to defend our rights and privileges: Grief that he muſt fight againſt our own nation: Mention of Carleton and Johnſon; concludes with a melancholly recital of our preſent diſ<g ref="char:EOLhyphen"/>tractions, and ſincere hope of reconciliation with Great-Britain, before a wicked miniſtry render it too late: Concluſion.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:014044_0004_0F92AB6573F52D90"/>
+            <pb facs="unknown:014044_0004_0F92AB6573F52D90"/>
             <head>A <hi>POEM,</hi> &amp;c.</head>
             <lg>
                <l>HOW curs'd the man whom fate's unhappy doom</l>
@@ -165,7 +166,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Her trading navies ſpread their ſails no more,</l>
                <l>Remoteſt nations ceaſe to ſeek her ſhore,</l>
                <l>
-                  <pb n="6" facs="tcp:014044_0005_0F92AB662C5C04A0"/>Deep are her weeds—in darkeſt ſable clad,</l>
+                  <pb n="6" facs="unknown:014044_0005_0F92AB662C5C04A0"/>Deep are her weeds—in darkeſt ſable clad,</l>
                <l>O come and view the Queen of all that's ſad,</l>
                <l>Long are her nights, that yield no chearful ſound,</l>
                <l>Like endleſs nights in tombs below the ground,</l>
@@ -200,7 +201,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Guard me, ye heavens, ſhield this defenceleſs head,</l>
                <l>While travelling o'er theſe ſanguine plains of dead;</l>
                <l>
-                  <pb n="7" facs="tcp:014044_0006_0F92AB67155A3F60"/>Nor only me, may heaven defend us all</l>
+                  <pb n="7" facs="unknown:014044_0006_0F92AB67155A3F60"/>Nor only me, may heaven defend us all</l>
                <l>From the harſh rigour of King George's ball.</l>
             </lg>
             <lg>
@@ -235,7 +236,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>But waft a timorous and ignoble breath</l>
                <l>Where conſcience, conſcience bids them ſhrink at death.</l>
                <l>
-                  <pb n="8" facs="tcp:014044_0007_0F92AB67C553EC10"/>"O ſtranger, led by Heaven's ſupreme decree,</l>
+                  <pb n="8" facs="unknown:014044_0007_0F92AB67C553EC10"/>"O ſtranger, led by Heaven's ſupreme decree,</l>
                <l>Go, view the dire effects of tyranny,</l>
                <l>Strait to the town direct thy fated way,</l>
                <l>But heark attentive, liſten and obey,</l>
@@ -272,7 +273,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Now ſtalk'd I on towards the dome of ſtate,</l>
                <l>Where Gage reſides our weſtern Potentate,</l>
                <l>
-                  <pb n="9" facs="tcp:014044_0008_0F92AB6DB49C1808"/>A ſecond <note n="*" place="bottom">Hernando Cortez, one of the original conquerors of Spa<g ref="char:EOLhyphen"/>niſh America, who depopulated many provinces, and ſlew ſeve<g ref="char:EOLhyphen"/>ral millions of the natives of this continent. <hi>See Father Barthol. Du Caſes's Hiſtory.</hi>
+                  <pb n="9" facs="unknown:014044_0008_0F92AB6DB49C1808"/>A ſecond <note n="*" place="bottom">Hernando Cortez, one of the original conquerors of Spa<g ref="char:EOLhyphen"/>niſh America, who depopulated many provinces, and ſlew ſeve<g ref="char:EOLhyphen"/>ral millions of the natives of this continent. <hi>See Father Barthol. Du Caſes's Hiſtory.</hi>
                   </note> Cortez ſent by heaven's command,</l>
                <l>To murder, rage, and ravage o'er our land;</l>
                <l>A very Cortez—what's the difference?</l>
@@ -302,7 +303,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>What power ſhall drive this ſerpent from our ſhore,</l>
                <l>This ſcorpion ſwoln with carnage, death, and gore?</l>
                <l>
-                  <pb n="10" facs="tcp:014044_0009_0F92AB6EE7597898"/>Twelve was the hour,—infernal darkneſs reign'd,</l>
+                  <pb n="10" facs="unknown:014044_0009_0F92AB6EE7597898"/>Twelve was the hour,—infernal darkneſs reign'd,</l>
                <l>Low hung the clouds, the ſtars their light reſtrain'd:</l>
                <l>High in the dome a dire aſſembly ſat,</l>
                <l>A ſtupid council on affairs of ſtate;</l>
@@ -337,7 +338,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Red-fac'd as Sol deſcending to repoſe,</l>
                <l>Reclin'd the furious Captain of the Roſe;</l>
                <l>
-                  <pb n="11" facs="tcp:014044_0010_0F92AB6F21F275D0"/>Skill'd to direct his cannonading ſhot,</l>
+                  <pb n="11" facs="unknown:014044_0010_0F92AB6F21F275D0"/>Skill'd to direct his cannonading ſhot,</l>
                <l>No Turkiſh rover half ſo murd'ring hot;</l>
                <l>Pleas'd with baſe vengeance on defenceleſs towns,</l>
                <l>His forked tongue hiſs'd nothing elſe but, Zounds!</l>
@@ -372,7 +373,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Gage ſtarts, rebounding from his ample ſeat,</l>
                <l>Swears thrice, and cries—"Ye furies are we beat?</l>
                <l>
-                  <pb n="12" facs="tcp:014044_0011_0F92AB6FE16149C0"/>Thrice are we drubb'd?—pray gentles let me know,</l>
+                  <pb n="12" facs="unknown:014044_0011_0F92AB6FE16149C0"/>Thrice are we drubb'd?—pray gentles let me know,</l>
                <l>Whether it be the fault of fate or you?"</l>
                <l>He ceas'd, and anger flaſh'd from both his eyes,</l>
                <l>While Percy to his query thus replies.—</l>
@@ -405,7 +406,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>The death you 'ſcap'd my very blood congeals,</l>
                <l>Heaven grant me too, ſo ſwift a pair of heels;</l>
                <l>
-                  <pb n="13" facs="tcp:014044_0012_0F92AB709FDDA760"/>In Chevy-Chace, as doubtleſs you have read,</l>
+                  <pb n="13" facs="unknown:014044_0012_0F92AB709FDDA760"/>In Chevy-Chace, as doubtleſs you have read,</l>
                <l>Lord Percy would have ſooner dy'd than fled,</l>
                <l>Behold the virtues of your houſe decay,</l>
                <l>Ah how unlike the Percy of that day!"</l>
@@ -440,7 +441,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>May no gay flowers or vernal blooming tree,</l>
                <l>Scent thy vile air or ſhade the face of thee!</l>
                <l>
-                  <pb n="14" facs="tcp:014044_0013_0F92AB715D7B39D8"/>May no ſweet graſs adorn thy hateful creſt,</l>
+                  <pb n="14" facs="unknown:014044_0013_0F92AB715D7B39D8"/>May no ſweet graſs adorn thy hateful creſt,</l>
                <l>That nodded o'er Britannia's troops diſtreſt!</l>
                <l>Or if it does, may ſome deſtructive gale.</l>
                <l>The green leaf wither, and the graſs turn pale;</l>
@@ -475,7 +476,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Putnam's brave troops your honor would have ſwore,</l>
                <l>Had robb'd the clouds of half their ſulph'rous ſtore,</l>
                <l>
-                  <pb n="15" facs="tcp:014044_0014_0F92AB72182296C0"/>Call'd thunder down whence Jove his vengeance ſpreads,</l>
+                  <pb n="15" facs="unknown:014044_0014_0F92AB72182296C0"/>Call'd thunder down whence Jove his vengeance ſpreads,</l>
                <l>And drove it mix'd with lightning on our heads!</l>
                <l>What tho' Cop's-hill its black artillery play'd,</l>
                <l>Clouding the plains in worſe than Stygian ſhade;</l>
@@ -509,7 +510,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>But my ſuſpecting heart bids me foredoom,</l>
                <l>A thouſand Warrens riſing in his room—</l>
                <l>
-                  <pb n="16" facs="tcp:014044_0015_0F92AB7316C7B210"/>Heaven knows I left my native country's air,</l>
+                  <pb n="16" facs="unknown:014044_0015_0F92AB7316C7B210"/>Heaven knows I left my native country's air,</l>
                <l>In full belief of things that never were,</l>
                <l>Deceiv'd by Grant, I've ſail'd thus far in vain,</l>
                <l>And like a fool may now ſail back again—</l>
@@ -542,7 +543,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>In ſleep, choice diſhes to my eyes repair—</l>
                <l>Waking I gape and chew the empty air—</l>
                <l>
-                  <pb n="17" facs="tcp:014044_0016_0F92AB739DD21438"/>Say is it juſt that I who rule theſe bands,</l>
+                  <pb n="17" facs="unknown:014044_0016_0F92AB739DD21438"/>Say is it juſt that I who rule theſe bands,</l>
                <l>Should live on huſks like rakes in foreign lands?</l>
                <l>Come let us hold a council e'er we ſleep,</l>
                <l>Some conſultation how to filch their ſheep,</l>
@@ -575,7 +576,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>When ſwift as wind, to vent their baſe-born rage,</l>
                <l>The Tory Williams <note n="*" place="bottom">A notable Tory in Boſton.</note> and the Butcher Gage.,</l>
                <l>
-                  <pb n="18" facs="tcp:014044_0017_0F92AB7598B47298"/>Ruſh'd to the tree, a nameleſs number near,</l>
+                  <pb n="18" facs="unknown:014044_0017_0F92AB7598B47298"/>Ruſh'd to the tree, a nameleſs number near,</l>
                <l>Tories and Negroes following in the rear—</l>
                <l>Each, ax in hand, attack'd the honour'd tree,</l>
                <l>Swearing eternal war with Liberty;</l>
@@ -610,7 +611,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Rage ruffian rage, nor lay thy thunder down,</l>
                <l>'Till all our Tories howl and flee the town.</l>
                <l>
-                  <pb n="19" facs="tcp:014044_0018_0F92AB75E27FC980"/>What is a Tory? Heavens and earth reveal!</l>
+                  <pb n="19" facs="unknown:014044_0018_0F92AB75E27FC980"/>What is a Tory? Heavens and earth reveal!</l>
                <l>What ſtrange blind monſter does that name conceal?</l>
                <l>There! there he ſtands—for Augury prepare,</l>
                <l>Come lay his heart and inmoſt entrails bare,</l>
@@ -645,7 +646,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>His bleeding entrails ſhew ſome great deſign,</l>
                <l>Which ſhall abortive prove, as I divine.</l>
                <l>
-                  <pb n="20" facs="tcp:014044_0019_0F92AB782E4EB898"/>But, freedom loſt, nor danger do I ſee,</l>
+                  <pb n="20" facs="unknown:014044_0019_0F92AB782E4EB898"/>But, freedom loſt, nor danger do I ſee,</l>
                <l>If we can only with ourſelves agree.</l>
                <l>How like St. George invincible I ſtand,</l>
                <l>This home bred dragon ſtretch'd beneath my hand!</l>
@@ -680,7 +681,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Now throngs on throngs on ev'ry ſide ſurround,</l>
                <l>Beneath the burthen groans the heaving ground,</l>
                <l>
-                  <pb n="21" facs="tcp:014044_0020_0F92AB7A23AC4748"/>Thoſe fam'd afar to drive the deadly ſhot,</l>
+                  <pb n="21" facs="unknown:014044_0020_0F92AB7A23AC4748"/>Thoſe fam'd afar to drive the deadly ſhot,</l>
                <l>With trueſt level to the central ſpot;</l>
                <l>Thoſe whom Virginia's vaſt dominion ſends,</l>
                <l>From her chaſte ſtreams and intervening lands,</l>
@@ -715,7 +716,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Theſe hot for power, and burning for command,</l>
                <l>Would rule the ocean and ſubject the land;</l>
                <l>
-                  <pb n="22" facs="tcp:014044_0021_0F92AB7A5DE438C0"/>But while this arm the ſtrength of man retains,</l>
+                  <pb n="22" facs="unknown:014044_0021_0F92AB7A5DE438C0"/>But while this arm the ſtrength of man retains,</l>
                <l>While true-born courage revels through my veins,</l>
                <l>I'll ſpill my blood yon' hoſtile force to quell,</l>
                <l>And lawleſs power by lawful ſtrength repel;</l>
@@ -751,7 +752,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>And place him ſafe beyond the reach of ball,</l>
                <l>Where Abrah'm's boſom may be had for all.</l>
                <l>
-                  <pb n="23" facs="tcp:014044_0022_0F92AB7B80967B70"/>Some powerful cauſe diſarms my heart of fear.</l>
+                  <pb n="23" facs="unknown:014044_0022_0F92AB7B80967B70"/>Some powerful cauſe diſarms my heart of fear.</l>
                <l>And bids me bring ſome future battle near.</l>
                <l>When crowds of dead ſhall veil the ghaſtful plain,</l>
                <l>And mighty Lords like Percy, fly again;</l>
@@ -786,7 +787,7 @@ turn their eyes to their late loſs at Bunker's Hill. Ge<g ref="char:EOLhyphen"/
                <l>Direct our counſels and our leaders ſway,</l>
                <l>Confound our foes and fill them with diſmay,</l>
                <l>
-                  <pb n="24" facs="tcp:014044_0023_0F92AB7BDD2F1D78"/>So ſhall paſt years, thoſe happy years, return,</l>
+                  <pb n="24" facs="unknown:014044_0023_0F92AB7BDD2F1D78"/>So ſhall paſt years, thoſe happy years, return,</l>
                <l>And war's red lamp in Boſton ceaſe to burn:</l>
                <l>Hear and atteſt the warmeſt wiſh I bring,</l>
                <l>God ſave the Congreſs and reform the King!</l>
